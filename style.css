@@ -1,4 +1,3 @@
-```css
 @import url('https://fonts.googleapis.com/css2?family=VT323&family=IBM+Plex+Mono:wght@300;400;500&display=swap');
 
 
@@ -581,7 +580,7 @@ section h2{
 section h2::before{
 
 
-    content:"SYS:// ";
+    content:"> ";
 
 
     color:#5cbcff;
@@ -652,7 +651,7 @@ article:hover{
 
 
 
-article h3{
+h3{
 
 
     color:#c8f4ff;
@@ -949,4 +948,3 @@ nav a{
 
 
 }
-```
